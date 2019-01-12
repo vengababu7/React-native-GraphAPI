@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>A533EDF0-908B-4988-A65F-9EC2A033D2F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A533EDF0-908B-4988-A65F-9EC2A033D2F7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>AsanaTask project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AsanaTask</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project AsanaTask with scheme AsanaTask and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>569002442.35852003</real>
+			<key>timeStoppedRecording</key>
+			<real>569002445.21625698</real>
+			<key>title</key>
+			<string>Building project AsanaTask with scheme AsanaTask and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>A533EDF0-908B-4988-A65F-9EC2A033D2F7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
